@@ -19,7 +19,7 @@ namespace DiscountCut
             _rightScissor = right;
             _sessionsLeft = 10;
             ChairName = name;
-
+            
         }
     }
 }
